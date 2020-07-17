@@ -1,2 +1,1 @@
-console.log("Hola Raul"
-    arriba);
+console.log("Hola Raul arriba");
